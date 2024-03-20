@@ -1,0 +1,11 @@
+# List the membership of this group.  (Remove entries if you have fewer
+# than three members.)
+#
+
+members:
+  - name: Yiping Yan
+    uid: u7724469
+  - name: Yichi Zhang
+    uid: u7748799
+  - name: Haipeng Yan
+    uid: u7757634

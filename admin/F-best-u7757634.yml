@@ -1,0 +1,35 @@
+# IMPORTANT: It is very important that you correctly complete this originality
+# statement.
+#
+# This is your statement of your submitted work being your own.
+# Incorrectly filling out this statement could lead to charges
+# of academic misconduct.
+# 
+# For information on how to fill this out correctly, see
+# https://cs.anu.edu.au/courses/comp1110/help/faq/09-originality/
+#
+
+declaration: >-
+  I submit the work below for assessment as my best work. I declare that this
+  is entirely my own work, with the following documented exceptions:
+
+# Use this to list names of people who you collaborated with, and a
+# comment about what you collaborated on.
+#
+# Add as many "name+comment" entries as necessary
+# (or remove it altogether if you haven't collaborated with anyone)
+
+
+# I wish to submit the following methods as entirely my own (remove this if
+# you want to just submit classes):
+method:
+   - https://gitlab.cecs.anu.edu.au/u7748799/comp1110-ass2/-/blob/main/src/comp1110/ass2/gui/Game.java#L351-497
+   - https://gitlab.cecs.anu.edu.au/u7748799/comp1110-ass2/-/blob/main/src/comp1110/ass2/gui/Game.java#L511-539
+   - https://gitlab.cecs.anu.edu.au/u7748799/comp1110-ass2/-/blob/main/src/comp1110/ass2/gui/Game.java#L554-602
+   - https://gitlab.cecs.anu.edu.au/u7748799/comp1110-ass2/-/blob/main/src/comp1110/ass2/gui/Game.java#L686-751
+   - https://gitlab.cecs.anu.edu.au/u7748799/comp1110-ass2/-/blob/main/src/comp1110/ass2/gui/Game.java#L767-821
+   - https://gitlab.cecs.anu.edu.au/u7748799/comp1110-ass2/-/blob/main/src/comp1110/ass2/gui/Game.java#L849-931
+
+# sign *your* name and uid here
+name: Haipeng Yan
+uid: u7757634

@@ -1,0 +1,36 @@
+# IMPORTANT: It is very important that you correctly complete this originality
+# statement.
+#
+# This is your statement of your submitted work being your own.
+# Incorrectly filling out this statement could lead to charges
+# of academic misconduct.
+# 
+# For information on how to fill this out correctly, see
+# https://cs.anu.edu.au/courses/comp1110/help/faq/09-originality/
+#
+
+declaration: >-
+  I submit the work below for assessment as my best work. I declare that this
+  is entirely my own work, with the following documented exceptions:
+
+# Use this to list names of people who you collaborated with, and a
+# comment about what you collaborated on.
+#
+# Add as many "name+comment" entries as necessary
+# (or remove it altogether if you haven't collaborated with anyone)
+collaboration:
+  - name: Haipeng Yan
+    comment:  Task 4 is the predecessor task of task 14, so we can use Task 4 as the judgement condition of Task 14, or use the same method to reduce code redundancy.
+
+# I wish to submit the following methods as entirely my own (remove this if
+# you want to just submit classes):
+method:
+   - https://gitlab.cecs.anu.edu.au/u7748799/comp1110-ass2/-/blob/main/src/comp1110/ass2/Marrakech.java#L41-51
+   - https://gitlab.cecs.anu.edu.au/u7748799/comp1110-ass2/-/blob/main/src/comp1110/ass2/Marrakech.java#L69-72
+   - https://gitlab.cecs.anu.edu.au/u7748799/comp1110-ass2/-/blob/main/src/comp1110/ass2/Marrakech.java#L85-91
+   - https://gitlab.cecs.anu.edu.au/u7748799/comp1110-ass2/-/blob/main/src/comp1110/ass2/Marrakech.java#L109-122
+   - https://gitlab.cecs.anu.edu.au/u7748799/comp1110-ass2/-/blob/main/src/comp1110/ass2/Marrakech.java#L306-320
+
+# sign *your* name and uid here
+name: Yichi Zhang
+uid: u7748799
